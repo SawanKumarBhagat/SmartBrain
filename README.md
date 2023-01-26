@@ -5,6 +5,7 @@ features like register yourself and sign in/ sign out. It also keeps the track o
 uploaded.
 
 Technologies used:
+
   Front End: React JS
   Back End: Node JS, Express JS
   Database: PostgreSQL
