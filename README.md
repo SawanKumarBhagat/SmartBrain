@@ -7,6 +7,9 @@ uploaded.
 Technologies used:
 
   Front End: React JS
+  
   Back End: Node JS, Express JS
+  
   Database: PostgreSQL
+  
   API used: Clarifai API
